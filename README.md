@@ -1,68 +1,43 @@
-# Thamanna & Muhammed Afeef — Nikah Invitation Website
+# Jabir & Nishila | Jamsheer & Jazila — Wedding Invitation Website
 
-A premium, luxury Muslim wedding invitation website built with pure HTML5, CSS3, and Vanilla JavaScript.
+A luxury Muslim wedding invitation website built for the double wedding ceremony of **Jabir & Nishila** and **Jamsheer & Jazila**.
+
+**Website URL:** [https://jabir-nishila-and-jamsheer-jazila.vercel.app/](https://jabir-nishila-and-jamsheer-jazila.vercel.app/)
 
 ## Structure
 
 ```
-WeddingInvitation/
+weddingcard10/
 ├── index.html              # Main HTML file
 ├── css/
 │   ├── style.css           # Main styles, variables, sections
-│   ├── responsive.css      # Media queries (320px → 1440px+)
-│   └── animations.css      # AOS-like scroll animations, keyframes
+│   ├── responsive.css      # Media queries
+│   └── animations.css      # Scroll animations, keyframes
 ├── js/
-│   ├── main.js             # Loading screen, nav, init
-│   ├── countdown.js        # Live countdown to 8 Aug 2026
+│   ├── main.js             # Loading gate, nav, init
+│   ├── countdown.js        # Live countdown to 06 Sep 2026
 │   └── animations.js       # Scroll reveal, parallax, smooth scroll
 ├── assets/
 │   ├── images/
-│   │   ├── couple.png      # Couple photo (hero)
+│   │   ├── couple1.jpeg    # Jabir & Nishila photo
+│   │   ├── couple2.jpeg    # Jamsheer & Jazila photo
 │   │   └── hero-bg.png     # Background texture
-│   └── icons/
+│   └── music.mp3
 └── README.md
 ```
 
-## Couple Details
+## Host & Couple Details
 
-- **Bride:** Thamanna, D/o Eroth Abdu Salam & Bushra Abdu Salam
-- **Groom:** Muhammed Afeef, S/o Ahammed Kambayathil & Muneera
+- **Host / Grooms' Parents:** S/o. Mr. Abdulvahab & Mrs. Ramla (Nooniyil House, Kolikkara, Othaloor P.O)
+- **Couple 1:** Jabir & Nishila (D/o Mr. Aboobacker Sidhiq & Mrs. Sahidha, Kanjeri House Eravakkad)
+- **Couple 2:** Jamsheer & Jazila (D/o Mr. Ibrahim Kutty & Mrs. Mumthas, Thirunnilath House Kokkur)
 
-## Events
+## Event Details
 
-| Event       | Date         | Time     | Venue              |
-|-------------|--------------|----------|--------------------|
-| Nikah       | 8 Aug 2026   | 5:30 PM  | Miami Auditorium   |
-| Wedding Eve | 7 Aug 2026   | 6:00 PM  | Wedlot Auditorium  |
+| Event | Date | Venue | Location |
+|---|---|---|---|
+| Wedding Ceremony | Sunday, 06 September 2026 | Hi Tech Auditorium | Eravakkad Road Kozhikara |
 
-## Colors
+## Best Wishes
 
-| Token    | Value     |
-|----------|-----------|
-| Cream    | `#F8F4ED` |
-| Green    | `#2E5D50` |
-| Gold     | `#C8A96A` |
-
-## Fonts
-
-- **Script (names):** Great Vibes
-- **Serif (headings):** Playfair Display
-- **Content (body):** Cormorant Garamond / Lato
-- **Arabic:** Amiri
-
-## Features
-
-- ✅ Luxury loading screen
-- ✅ Hero with parallax & entrance animations
-- ✅ Live countdown to Nikah
-- ✅ Bride & Groom section
-- ✅ Parents section
-- ✅ Events with Google Maps links
-- ✅ Love Story timeline
-- ✅ Quote section (Quran verse)
-- ✅ Gallery
-- ✅ RSVP form
-- ✅ Scroll-reveal animations
-- ✅ Fully responsive (320px → 1440px+)
-- ✅ SEO meta tags & Open Graph
-- ✅ Accessible HTML structure
+Ewan Ibek - Hala Zoohi
